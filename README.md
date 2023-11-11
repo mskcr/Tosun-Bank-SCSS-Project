@@ -11,5 +11,5 @@ SCSS was used for each style field in the study.
 
 <h3>Screenshot</h3>
 
-![](video.gif)
+![](video1.gif)
 
